@@ -1,10 +1,9 @@
 <?php
 //echo $_SERVER["REMOTE_ADDR"];
-$ini = parse_ini_file("config.ini");
-    $dbServername = $ini.dbhost;
-    $dbUsername = $ini.dbuser;
-    $dbPassword = $ini.dbpassword;
-    $db = $ini.dbname;
+    $dbServername = "HOSTNAME";
+    $dbUsername = "USERNAME";
+    $dbPassword = "PASSWORD";
+    $db = "DB NAME";
     
     
     $conn = new mysqli($dbServername, $dbUsername, $dbPassword, $db);
