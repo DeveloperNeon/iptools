@@ -4,7 +4,7 @@ An opensource github repository full of ip tools
 ## LINKS
 You can visit the IP tools here
 -------------------------------
-- IP Curl: https://ipapi.neon-is.fun or curl ipapi.neon-is.fun
+- IP Curl: https://iptools.neonthe.dev/ or curl iptools.neonthe.dev
 IP Logger will not be online. Please do not be a skid using that.
 ### Credits
 - Neon, Me, for actaually hosting and updating this.
